@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أدوات الواي فاي</string>
+
+    <string name="card_network">الشبكة المتصلة</string>
+    <string name="card_speed">قياس السرعة</string>
+    <string name="card_devices">الأجهزة على الشبكة</string>
+    <string name="card_router">الراوتر</string>
+
+    <string name="refresh">تحديث</string>
+    <string name="start_speed">ابدأ القياس</string>
+    <string name="scan_devices">ابحث عن الأجهزة</string>
+    <string name="open_router">افتح صفحة الراوتر</string>
+    <string name="restart_help">طريقة إعادة التشغيل</string>
+
+    <string name="not_connected">مش متصل بشبكة واي فاي</string>
+    <string name="ssid_hidden">الاسم غير ظاهر (فعّل الموقع وامنح الإذن)</string>
+    <string name="permission_note">أندرويد بيطلب إذن الموقع علشان يسمح للتطبيق يقرأ اسم الشبكة. التطبيق مش بيستخدم موقعك ولا بيرسله لأي مكان.</string>
+
+    <string name="speed_idle">اضغط \"ابدأ القياس\"</string>
+    <string name="speed_ping">زمن الاستجابة (Ping)</string>
+    <string name="speed_down">التحميل</string>
+    <string name="speed_up">الرفع</string>
+    <string name="speed_testing_ping">جاري قياس الـ Ping…</string>
+    <string name="speed_testing_down">جاري قياس التحميل…</string>
+    <string name="speed_testing_up">جاري قياس الرفع…</string>
+    <string name="speed_done">تم القياس</string>
+    <string name="speed_failed">فشل القياس، تأكد إن الشبكة فيها إنترنت</string>
+    <string name="speed_note">القياس بيستهلك حوالي 30–40 ميجا من الباقة.</string>
+
+    <string name="devices_idle">اضغط \"ابحث عن الأجهزة\"</string>
+    <string name="devices_note">الفحص بيشوف الأجهزة اللي بترد على الشبكة. الأجهزة النايمة أو اللي مفعّل فيها حماية ممكن متظهرش، فالرقم تقريبي.</string>
+    <string name="devices_scanning">جاري الفحص… %1$d / %2$d</string>
+
+    <string name="router_note">أندرويد مفيهوش طريقة موحدة لإعادة تشغيل الراوتر. التطبيق بيفتحلك صفحة الراوتر جوه التطبيق، وانت بتسجل الدخول وتدوس Reboot.</string>
+    <string name="router_page_title">صفحة الراوتر</string>
+    <string name="router_hint">سجّل الدخول (اليوزر والباسورد غالبًا على ضهر الراوتر) وبعدها دوّر على Reboot أو Restart.</string>
+    <string name="no_gateway">مش قادر أعرف عنوان الراوتر</string>
+    <string name="close">إغلاق</string>
+    <string name="stop">إيقاف</string>
+
+    <string name="restart_help_text">مسارات شائعة لإعادة التشغيل:\n\n• Huawei: Maintenance ← Device Management ← Restart\n• ZTE: Administration ← System Management ← Reboot\n• TP-Link: System Tools ← Reboot\n• Tenda / D-Link: System ← Reboot\n\nلو مش لاقي الخيار، دوّر على كلمة Reboot أو Restart في قوائم الصفحة.</string>
+</resources>
